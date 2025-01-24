@@ -1,7 +1,4 @@
-
-# 💻 Welcome to My GitHub Profile!  
-
-### 👋 Hello! I'm [Your Name]  
+  ### 👋 Hello! I'm [Glory Ngum Foncha]  
 A passionate **Software Developer** and **Full Stack Developer** who loves crafting efficient, scalable, and user-friendly web applications. I’m driven by the art of problem-solving and constantly exploring new technologies to build innovative solutions.
 
 ---
@@ -29,7 +26,7 @@ A passionate **Software Developer** and **Full Stack Developer** who loves craft
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 
 ---
 
@@ -40,9 +37,9 @@ A passionate **Software Developer** and **Full Stack Developer** who loves craft
 ---
 
 ## 📫 Let’s Connect!  
-- 💼 **Portfolio**: [YourPortfolioLink](#)  
-- 📧 **Email**: [youremail@example.com](mailto:youremail@example.com)  
-- 💬 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)  
+- 💼 **My Portfolio**: [MyPortfolioLink](https://github.com/Gloriane7767/My_Portfolio)  
+- 📧 **My Email**: [gloriane7767@gmail.com](mailto:gloriane7767@gmail.com)  
+- 💬 **My LinkedIn**: [My LinkedIn](www.linkedin.com/in/gloryngumfoncha)  
 
 ---
 
