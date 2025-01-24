@@ -1,4 +1,4 @@
-  ### 👋 Hello! I'm [Glory Ngum Foncha]  
+  ### 👋 Hello! I'm Glory Ngum Foncha.  
 A passionate **Software Developer** and **Full Stack Developer** who loves crafting efficient, scalable, and user-friendly web applications. I’m driven by the art of problem-solving and constantly exploring new technologies to build innovative solutions.
 
 ---
@@ -39,7 +39,7 @@ A passionate **Software Developer** and **Full Stack Developer** who loves craft
 ## 📫 Let’s Connect!  
 - 💼 **My Portfolio**: [MyPortfolioLink](https://github.com/Gloriane7767/My_Portfolio)  
 - 📧 **My Email**: [gloriane7767@gmail.com](mailto:gloriane7767@gmail.com)  
-- 💬 **My LinkedIn**: [My LinkedIn](www.linkedin.com/in/gloryngumfoncha)  
+- 💬 **My LinkedIn**: [MyLinkedIn](https://www.linkedin.com/in/gloryngumfoncha)  
 
 ---
 
