@@ -1,8 +1,8 @@
  ✨ Hello World! I’m Glory Ngum Foncha
 
-💻 A passionate Full Stack Web Developer in training who loves turning ideas into scalable, user-centered web applications.
-
-🌱 Constantly learning and building with React, Node.js, and Spring Boot, I aim to create clean, efficient, and impactful digital experiences that solve real problems.
+💻 Full Stack Web Developer sharing about my journey and learning in tech.
+🌱 Studyied [Web-Development and Generative AI] at [Lexicon], Sweden]
+🎯 Passionate about building interactive web apps and exploring modern technologies.
 
 ---
 
