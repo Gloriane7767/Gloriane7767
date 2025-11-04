@@ -44,8 +44,45 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gloriane7767&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 ---
+
+## 🎬 Featured YouTube Videos
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=DLX62G4lc44" target="_blank">
+        <img src="https://img.youtube.com/vi/DLX62G4lc44/0.jpg" width="200" style="margin:10px;"><br>
+        React JS Crash Course 2024
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=W6NZfCO5SIk" target="_blank">
+        <img src="https://img.youtube.com/vi/W6NZfCO5SIk/0.jpg" width="200" style="margin:10px;"><br>
+        JavaScript Crash Course
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=DLX62G4lc44" target="_blank">
+        <img src="https://img.youtube.com/vi/DLX62G4lc44/0.jpg" width="200" style="margin:10px;"><br>
+        React JS Crash Course 2024
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=mTz0GXj8NN0" target="_blank">
+        <img src="https://img.youtube.com/vi/mTz0GXj8NN0/0.jpg" width="200" style="margin:10px;"><br>
+        Full-Stack App with Next.js & Tailwind
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
