@@ -1,8 +1,9 @@
  ✨ Hello World! I’m Glory Ngum Foncha
 
-💻 Full Stack Web Developer sharing about my journey and learning in tech.<br>
-🌱 Studied [Web-Development and Generative AI] at [Lexicon], Sweden]<br>
+💻  Web Developer sharing about my journey and learning in tech.  <br>
+🌱 Studying [Full Stack Web Development](https://example.com/fullstack) and [Generative AI](https://example.com/generative-ai) at [Lexicon, Sweden](https://www.lexicon.se/)  <br>
 🎯 Passionate about building interactive web apps and exploring modern technologies.
+
 
 ---
 
