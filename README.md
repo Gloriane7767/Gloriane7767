@@ -90,18 +90,6 @@
 
 ---
 
-### 📌 Featured Repositories
-
-| Repo | Description | Stack |
-|---|---|---|
-| [e-commerce-dynamic-landing-page](https://github.com/Gloriane7767/e-commerce-dynamic-landing-page) | Dynamic e-commerce website | JavaScript |
-| [twitter-clone](https://github.com/Gloriane7767/twitter-clone) | Twitter clone project | JavaScript |
-| [workshop-rr-e-commerce-landing-Page](https://github.com/Gloriane7767/workshop-rr-e-commerce-landing-Page) | Landing page for digital services | CSS |
-| [workshop-advice-generator-app](https://github.com/Gloriane7767/workshop-advice-generator-app) | Advice generator app | JavaScript |
-| [workshop-r-e-commerce-landing-page](https://github.com/Gloriane7767/workshop-r-e-commerce-landing-page) | E-commerce landing page workshop | HTML |
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gloriane7767&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
