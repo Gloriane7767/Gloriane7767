@@ -1,268 +1,97 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Glory Ngum Foncha — Full Stack Developer</title>
-  <meta name="description" content="Portfolio of Glory Ngum Foncha, Java Full Stack Developer trained at Lexicon AB, Sweden.">
+<h1 align="center">Hi 👋, I'm Glory Ngum Foncha</h1>
+<h3 align="center">Java Full Stack Web Developer | Lexicon AB Sweden Graduate 🇸🇪</h3>
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Lexicon+AB+Sweden+Graduate;Generative+AI+Enthusiast;Open+to+entry-level+roles" alt="Typing SVG" />
+</p>
 
-  <!-- HEADER -->
-  <header class="header">
-    <a href="#top" class="logo">Glory<span>.</span>dev</a>
+---
 
-    <button class="nav-toggle" id="navToggle" aria-label="Open menu" aria-expanded="false">
-      <i class='bx bx-menu'></i>
-    </button>
+### 🚀 About Me
 
-    <nav class="nav-bar" id="navBar">
-      <a href="#about">About</a>
-      <a href="#skills">Skills</a>
-      <a href="#projects">Projects</a>
-      <a href="#contact">Contact</a>
-    </nav>
+- 🎓 Graduate of **Full Stack Web Development (Java)** and **Generative AI** programs at [Lexicon AB, Sweden](https://www.lexicon.se/)
+- 🔭 Building full-stack projects with **Java, Spring Boot, React, and Node.js**
+- 💡 Passionate about clean, maintainable code and smooth, responsive UX
+- 🎯 Actively seeking **entry-level / junior Full Stack Developer** roles and internships
+- 🤝 Open to collaborations and new opportunities
+- 📍 Based in Sweden · 🕐 UTC+02:00
 
-    <a href="#contact" class="btn btn-primary header-cta">Get in touch</a>
-  </header>
+---
 
-  <main>
-    <!-- HERO -->
-    <section class="hero" id="top">
-      <div class="hero-text">
-        <p class="hero-kicker">Lexicon AB Sweden Graduate</p>
-        <h1>Hi, I'm Glory Ngum Foncha.<br>I build full stack apps<br>with Java and React.</h1>
-        <p class="hero-lede">
-          I design and build reliable, user-focused web applications end to end —
-          from Spring Boot APIs to responsive React interfaces. Recently graduated
-          from a Full Stack Web Development (Java) and Generative AI program,
-          and looking for my first role as a developer.
-        </p>
-        <div class="hero-actions">
-          <a href="#projects" class="btn btn-primary">See my work</a>
-          <a href="mailto:gloriane7767@gmail.com" class="btn btn-ghost">Email me</a>
-        </div>
-      </div>
+### 🌐 Connect with me
 
-      <div class="hero-visual" aria-hidden="true">
-        <div class="code-window">
-          <div class="code-window-bar">
-            <span class="dot"></span><span class="dot"></span><span class="dot"></span>
-            <span class="file-name">Developer.java</span>
-          </div>
-          <pre class="code-window-body"><code><span class="tok-kw">public class</span> <span class="tok-class">Developer</span> {
+<p align="left">
+  <a href="https://www.linkedin.com/in/gloryngumfoncha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/ngumglo" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/gloriane_7767" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:gloriane7767@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.teamsmartworld.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
 
-  <span class="tok-kw">private</span> String name = <span class="tok-str">"Glory Ngum Foncha"</span>;
-  <span class="tok-kw">private</span> String[] stack = {
-    <span class="tok-str">"Java"</span>, <span class="tok-str">"Spring Boot"</span>,
-    <span class="tok-str">"React"</span>, <span class="tok-str">"TypeScript"</span>
-  };
+---
 
-  <span class="tok-kw">public</span> <span class="tok-kw">void</span> <span class="tok-fn">buildSomethingUseful</span>() {
-    <span class="tok-kw">while</span> (learning) {
-      shipCode();
-      improve();
-    }
-  }
-}</code></pre>
-        </div>
-      </div>
-    </section>
+### 💻 Tech Stack
 
-    <!-- ABOUT -->
-    <section class="about" id="about">
-      <div class="about-image">
-        <img src="images/gloriane.jpeg" alt="Portrait of Glory Ngum Foncha">
-      </div>
+**Languages & Markup**
 
-      <div class="about-content">
-        <h2>About me</h2>
-        <p>
-          My path into software development started with curiosity and grew into a
-          real commitment to understanding how modern web applications work —
-          from responsive interfaces to scalable backend systems and REST APIs.
-          I built my foundation through an intensive Full Stack Web Development
-          program in Java at Lexicon AB, Sweden, alongside open-source learning
-          and personal projects spanning both frontend and backend.
-        </p>
-        <p>
-          On the backend, I work with Java, Spring Boot, Spring Framework, REST
-          APIs, JDBC, and SQL. On the frontend, I build with React, TypeScript,
-          JavaScript, and modern, responsive UI practices. I'm also comfortable
-          with Node.js, Express, and MongoDB, and I'm currently exploring
-          Generative AI and API integrations.
-        </p>
-        <p>
-          What draws me to this work is problem-solving: breaking a complex
-          requirement into a simple, working solution. Beyond code, I value
-          clear communication, teamwork, and steady, honest progress — my goal
-          is to grow into a developer who builds software that's genuinely
-          useful to the people who rely on it.
-        </p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-        <div class="about-stats">
-          <div><strong>Java</strong><span>Primary backend language</span></div>
-          <div><strong>React</strong><span>Primary frontend library</span></div>
-          <div><strong>2025</strong><span>Lexicon AB graduate</span></div>
-        </div>
-      </div>
-    </section>
+**Frontend**
 
-    <!-- SKILLS -->
-    <section class="skills" id="skills">
-      <h2>What I work with</h2>
-      <p class="section-lede">Grouped by where each tool sits in the stack.</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-      <div class="skill-panels">
-        <div class="skill-panel">
-          <p class="skill-panel-label">// frontend</p>
-          <div class="tag-row">
-            <span class="tag">React</span>
-            <span class="tag">TypeScript</span>
-            <span class="tag">JavaScript</span>
-            <span class="tag">HTML5</span>
-            <span class="tag">CSS3</span>
-            <span class="tag">Bootstrap</span>
-          </div>
-        </div>
+**Backend & APIs**
 
-        <div class="skill-panel">
-          <p class="skill-panel-label">// backend</p>
-          <div class="tag-row">
-            <span class="tag">Java</span>
-            <span class="tag">Spring Boot</span>
-            <span class="tag">REST APIs</span>
-            <span class="tag">JDBC</span>
-            <span class="tag">Node.js</span>
-            <span class="tag">Express</span>
-          </div>
-        </div>
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON-web-tokens)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-        <div class="skill-panel">
-          <p class="skill-panel-label">// data &amp; tools</p>
-          <div class="tag-row">
-            <span class="tag">SQL</span>
-            <span class="tag">MongoDB</span>
-            <span class="tag">Git</span>
-            <span class="tag">GitHub</span>
-            <span class="tag">Postman</span>
-            <span class="tag">Generative AI</span>
-          </div>
-        </div>
-      </div>
-    </section>
+**Databases & Tools**
 
-    <!-- PROJECTS -->
-    <section class="projects" id="projects">
-      <h2>Project showcase</h2>
-      <p class="section-lede">A selection of public repositories from my GitHub.</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-      <div class="table-wrap">
-        <table>
-          <thead>
-            <tr>
-              <th>#</th>
-              <th>Project</th>
-              <th>Description</th>
-              <th>Stack</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>01</td>
-              <td><a href="https://github.com/Gloriane7767/e-commerce-dynamic-landing-page" class="project-link" target="_blank" rel="noopener">e-commerce-dynamic-landing-page</a></td>
-              <td>Dynamic e-commerce website</td>
-              <td>JavaScript</td>
-            </tr>
-            <tr>
-              <td>02</td>
-              <td><a href="https://github.com/Gloriane7767/twitter-clone" class="project-link" target="_blank" rel="noopener">twitter-clone</a></td>
-              <td>Twitter clone project</td>
-              <td>JavaScript</td>
-            </tr>
-            <tr>
-              <td>03</td>
-              <td><a href="https://github.com/Gloriane7767/workshop-rr-e-commerce-landing-Page" class="project-link" target="_blank" rel="noopener">workshop-rr-e-commerce-landing-Page</a></td>
-              <td>Landing page for digital services</td>
-              <td>CSS</td>
-            </tr>
-            <tr>
-              <td>04</td>
-              <td><a href="https://github.com/Gloriane7767/workshop-advice-generator-app" class="project-link" target="_blank" rel="noopener">workshop-advice-generator-app</a></td>
-              <td>Advice generator app</td>
-              <td>JavaScript</td>
-            </tr>
-            <tr>
-              <td>05</td>
-              <td><a href="https://github.com/Gloriane7767/workshop-r-e-commerce-landing-page" class="project-link" target="_blank" rel="noopener">workshop-r-e-commerce-landing-page</a></td>
-              <td>E-commerce landing page workshop</td>
-              <td>HTML</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </section>
+---
 
-    <!-- CONTACT -->
-    <section class="contact" id="contact">
-      <h2>Get in touch</h2>
-      <p class="section-lede">
-        Open to entry-level and junior full stack roles. The fastest way to
-        reach me is email — the form below opens your mail client.
-      </p>
+### 📊 GitHub Stats
 
-      <form class="contact-form" action="mailto:gloriane7767@gmail.com" method="post" enctype="text/plain">
-        <div class="input-row">
-          <div class="input-box">
-            <label for="name">Full name</label>
-            <input type="text" id="name" name="name" placeholder="Your name" required>
-          </div>
-          <div class="input-box">
-            <label for="email">Email</label>
-            <input type="email" id="email" name="email" placeholder="you@example.com" required>
-          </div>
-        </div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gloriane7767&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Glory's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloriane7767&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-        <div class="input-box">
-          <label for="message">Message</label>
-          <textarea id="message" name="message" rows="5" placeholder="What would you like to talk about?" required></textarea>
-        </div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gloriane7767&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-        <button type="submit" class="btn btn-primary">Send message</button>
-      </form>
-    </section>
-  </main>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gloriane7767&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
-  <!-- FOOTER -->
-  <footer class="footer">
-    <div class="social">
-      <a href="https://www.facebook.com/ngumglo" target="_blank" rel="noopener" aria-label="Facebook"><i class='bx bxl-facebook-circle'></i></a>
-      <a href="https://linkedin.com/in/gloryngumfoncha" target="_blank" rel="noopener" aria-label="LinkedIn"><i class='bx bxl-linkedin-square'></i></a>
-      <a href="https://github.com/gloriane7767" target="_blank" rel="noopener" aria-label="GitHub"><i class='bx bxl-github'></i></a>
-      <a href="https://instagram.com/gloriane_7767" target="_blank" rel="noopener" aria-label="Instagram"><i class='bx bxl-instagram-alt'></i></a>
-    </div>
-    <p class="copyright">Built by Glory Ngum Foncha · © 2025 All rights reserved</p>
-  </footer>
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gloriane7767&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 
-  <script>
-    const navToggle = document.getElementById('navToggle');
-    const navBar = document.getElementById('navBar');
-    navToggle.addEventListener('click', () => {
-      const isOpen = navBar.classList.toggle('open');
-      navToggle.setAttribute('aria-expanded', isOpen);
-    });
-    navBar.querySelectorAll('a').forEach(link =>
-      link.addEventListener('click', () => {
-        navBar.classList.remove('open');
-        navToggle.setAttribute('aria-expanded', false);
-      })
-    );
-  </script>
-</body>
-</html>
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
